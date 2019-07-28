@@ -3,5 +3,5 @@ projectKey=Zarzhas_WIPSonar
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.102
 dashboardUrl=https://sonarcloud.io/dashboard?id=Zarzhas_WIPSonar
-ceTaskId=AWw6gGOLFIRqRDDZazNR
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWw6gGOLFIRqRDDZazNR
+ceTaskId=AWw6vpizHONzCDf8Z9mq
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWw6vpizHONzCDf8Z9mq
