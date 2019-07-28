@@ -1,0 +1,1 @@
+"C:\Downloads\Drivers Global\SonarQube\sonar-scanner-4.0.0.1744-windows\bin\sonar-scanner.bat"    -D"sonar.projectKey=Zarzhas_WIPSonar"    -D"sonar.organization=zarzhas"    -D"sonar.sources=."    -D"sonar.host.url=https://sonarcloud.io"    -D"sonar.login=d1373ea8c86b8b4cb4bbe7c93de20c579871db88" 
